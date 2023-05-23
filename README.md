@@ -1,8 +1,12 @@
 # Python_项目实战
 
-1.flaskPorject
+1.Lottery_system
 
-随机抽取的python Web 小demo
+login.html展示随机变量,并用a标签进行随机选取赋值给hero
+
+![image.png](assets/Lottery_system_index_1.png)
+
+![image.png](assets/Lottery_system_app_1.png)
 
 2.loginSystem
 
