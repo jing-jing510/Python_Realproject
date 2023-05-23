@@ -12,4 +12,4 @@
 
 使用python Web框架 Flask 将其关联起来.
 
-![image.png](assets/loginSystem_app_1)
+![image.png](assets/loginSystem_app_1.png)
