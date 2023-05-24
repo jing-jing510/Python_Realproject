@@ -1,19 +1,10 @@
 # Python_项目实战
 
 1.Lottery_system
-
-login.html展示随机变量,并用a标签进行随机选取赋值给hero
-
-![image.png](assets/Lottery_system_index_1.png)
-
-![image.png](assets/Lottery_system_app_1.png)
-
+    Python Web的Flask框架
+    随机抽取
 2.loginSystem
-
-创建一个表单
-
-![image.png](assets/image.png)
-
-使用python Web框架 Flask 将其关联起来.
-
-![image.png](assets/loginSystem_app_1.png)
+    Python Web的Flask框架
+    登录界面,表单跳转
+3.1_minute_math
+    计时一分钟的一百以内数学计算(命令行 正确与否 正确率 正确答案)
