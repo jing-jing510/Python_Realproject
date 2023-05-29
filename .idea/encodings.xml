@@ -2,5 +2,6 @@
 <project version="4">
   <component name="Encoding">
     <file url="file://$PROJECT_DIR$/GDP_year_top8/1960-2019全球GDP数据.csv" charset="UTF-8" />
+    <file url="file://$PROJECT_DIR$/fetch_Bilibili/bili_video.py" charset="UTF-8" />
   </component>
 </project>
