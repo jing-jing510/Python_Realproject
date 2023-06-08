@@ -22,7 +22,7 @@ from pprint import pprint
 import requests
 
 # 确定请求url地址
-url = 'https://www.bilibili.com/video/BV1wr4y1j7fh'
+url = 'https://www.bilibili.com/video/BV1zs4y1e7Cn'
 # 发送请求,模拟浏览器对于视频详情页url地址发送请求
 #  请求头 headers  伪装代码
 #     伪装是为了防止被识别是爬虫程序
